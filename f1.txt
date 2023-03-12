@@ -1,10 +1,10 @@
-erb
-wab
-e
-bw
-A
-B 
-REAB
-E
-W
-BWA
+EAW
+WAEG
+EWA
+B
+ 
+ RE
+ BAE
+ RB
+ WA
+ EB
